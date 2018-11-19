@@ -1,0 +1,109 @@
+
+
+.nav-container{ 	
+width:100%; 
+background-color: #808287;
+box-shadow: 2px 2px 20px #7E7F79;  
+position:fixed; 
+left:0;  
+top:0;
+} 
+.column{column-count: 2;
+
+}
+.nav-container ul{
+width:100%;
+margin: auto;
+padding:0; /
+list-style-type: none; 
+font-size:18px;  
+font-family:courier, Arial, sans-serif;
+}  
+
+.nav-container li{
+float: left; 
+}  
+
+.nav-container a{ 
+display: block;  
+box-sizing: border-box; 
+width: 200px; 
+padding: 10px;
+text-decoration: none;  
+text-align: center; 
+background-color: #f2d500; 
+color:42f4ee;
+} 
+
+.nav-container a:hover{ 
+background-color: #42f4ee;
+ 
+}
+
+.nav-container a:visited{ 
+background-color: #b3ffda;
+ 
+}
+
+.mybanner{ 
+	
+	max-width:100%; 
+	max-height: auto;
+	margin:-100 auto;
+	}
+
+
+
+
+
+.mydiv{
+	box-sizing:border-box;
+	border: solid 15px #cccccc;
+	padding: 0;
+	float:left;
+	margin: 25px 25px 25px 0;
+	}
+	
+.center-responsive{ 
+	display:block;
+	max-width:100%; 
+	max-height: 100%;
+	margin:0 auto;
+	}
+	
+audio{
+ 	width:100%;
+}
+
+
+
+
+.video-apollo{
+	clear:left;
+	float:left;
+	margin: 0 15px 15px 0;
+	border: solid 15px #cccccc;
+	padding: 0;
+}
+
+
+.anim2{
+	border: solid 15px #cccccc;
+	
+}
+
+body{
+	margin: 80px 15% 50px 15%;
+	background-color: #66ffb5;
+	
+	font-family: 'Pathway Gothic One', sans-serif;	
+	color:#115268;
+	}
+
+h2{
+	font-size: 36px;
+	margin-bottom: 0;
+	}
+p{
+	text-align: justify;
+	}
