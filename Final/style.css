@@ -1,0 +1,142 @@
+
+
+.nav-container{ 	
+width:100%; 
+background-color: #ffb3ec;
+box-shadow: 2px 2px 20px #ffe6f9;  
+position:fixed; 
+left:0;  
+top:0;
+} 
+.column{column-count: none;
+
+}
+.nav-container ul{
+width:100%;
+margin: auto;
+padding:0; /
+list-style-type: none; 
+font-size:18px;  
+font-family:courier, Arial, sans-serif;
+}  
+
+.nav-container li{
+float: left; 
+}  
+
+.nav-container a{ 
+display: block;  
+box-sizing: border-box; 
+width: 200px; 
+padding: 10px;
+text-decoration: none;  
+text-align: center; 
+/*background-color: #cc33ff; 
+*/color:cc33ff;
+} 
+
+.nav-container a:hover{ 
+background-color: #f9e6ff;
+ 
+}
+
+.nav-container a:visited{ 
+background-color: #f9e6ff;
+ 
+}
+
+.mybanner{ 
+	
+	max-width:100%; 
+	max-height: auto;
+	margin:-100 auto;
+	}
+
+
+
+
+
+.mydiv{
+	box-sizing:border-box;
+	border: solid 15px #cccccc;
+	padding: 0;
+	float:left;
+	margin: 25px 25px 25px 0;
+	}
+	
+.center-responsive{ 
+	display:block;
+	max-width:100%; 
+	max-height: 100%;
+	margin:0 auto;
+	}
+	
+audio{
+ 	width:100%;
+}
+
+
+
+
+.video-apollo{
+	clear:left;
+	float:left;
+	margin: 0 15px 15px 0;
+	border: solid 15px #cccccc;
+	padding: 0;
+}
+
+
+.anim2{
+	border: solid 15px #cccccc;
+	
+}
+
+body{
+	margin: 80px 15% 50px 15%;
+	background-color: #edb3ff;
+	
+	font-family: 'Pathway Gothic One', sans-serif;	
+	color:#115268;
+	}
+
+h2{
+	font-size: 36px;
+	margin-bottom: 0;
+	}
+p{
+	text-align: justify;
+	}
+/**{
+	margin:0;
+	padding:0;
+}*/
+/*.grid{
+	display: grid;
+	grid-template-columns: 500px 500px;*/
+	/*grid-template-rows: 1fr 1fr*/ /*1fr 1fr;
+	grid-template-areas: 
+	". picture picture ."
+	". picture picture ."
+	
+
+	"about about"
+	"partners partners"
+	"personal personal";
+	grid-gap:10px;
+
+
+}
+.about{
+	grid-area:about;
+	align-self:start: ;
+
+}
+.info{grid-area: info;
+}
+.personal{grid-area: personal;
+}*/
+
+.nav-container2{
+	
+}
