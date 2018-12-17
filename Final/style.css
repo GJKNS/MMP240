@@ -140,3 +140,39 @@ p{
 .nav-container2{
 	
 }
+#p1{
+	background-color: #ff99ff;
+	color: #000001;
+	display: block;
+	width: 10%;
+	float: left;
+}
+ #vid1{
+ 	float: center; 
+ 	display: inline-block;
+ 	width: 33%;
+ }
+ #ps4p{
+ 	float:left;
+ 	display: inline;
+ 	width:35%;
+ }
+ #xboxp{
+ 	float:right;
+ 	display: inline;
+ 	width:35%;
+ }
+  #pcp{
+ 	float:right;
+ 	display: inline;
+ 	width:35%;
+ }
+  #consolep{
+ 	float:left;
+ 	display: inline;
+ 	width:35%;
+ }
+#tinfo{
+	width: 40%;
+	float : right;
+}
